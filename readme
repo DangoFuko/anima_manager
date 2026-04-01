@@ -1,0 +1,6 @@
+pip3 install -r requirements.txt
+python3 main.py
+
+
+
+pyinstaller --onefile --windowed main.py
