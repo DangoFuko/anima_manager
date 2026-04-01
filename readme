@@ -1,14 +1,4 @@
 pip3 install -r requirements.txt
-<<<<<<< HEAD
-python3 main.py
-
-
-
-pyinstaller --onefile --windowed main.py
-=======
 python3 src/main.py
 
-
-
 pyinstaller --onefile --windowed src/main.py
->>>>>>> a4027db (init)
